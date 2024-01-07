@@ -38,3 +38,4 @@
 
 # import os
 # os.remove("hakanx.txt")   # ? dosyayı siler
+
